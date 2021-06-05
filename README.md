@@ -1,0 +1,1 @@
+# Demon-synchronizuj-cy-dwa-podkatalogi
