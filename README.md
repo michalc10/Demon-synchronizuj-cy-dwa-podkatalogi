@@ -1,1 +1,1 @@
-# Demon synchronizujcy dwapodkatalogi
+# Demon synchronizujcy dwa podkatalogi
